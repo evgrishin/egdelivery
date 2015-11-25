@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>egdelivery</name>
+	<displayName><![CDATA[delivery module]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Add a description for your module to help merchants to understand what he should use your module for]]></description>
+	<author><![CDATA[evgeny grishin]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
